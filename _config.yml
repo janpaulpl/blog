@@ -2,3 +2,6 @@ name: jpramos' blog
 title: null
 
 theme: jekyll-theme-dinky
+
+github:
+  is_project_page: false
