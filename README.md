@@ -1,5 +1,7 @@
-# interesting stuff I write about 
+# interesting stuff I write about ![alt text](https://jpramos.me/Data/icosi.png)
 #### standard date format YYYY.MM.DD
+
+<br>
 
 <h2>
   <a href="http://blog.jpramos.me/2022.04.21" style="color: #364491; border-bottom:1px dashed">
