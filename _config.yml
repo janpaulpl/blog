@@ -10,7 +10,7 @@ linkedin_username:  jpv-ramos
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
