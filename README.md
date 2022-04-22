@@ -1,4 +1,4 @@
-# interesting stuff I write about
+# interesting stuff I write about ![alt text](https://jpramos.me/Data/icosi.png)
 #### standard date format YYYY.MM.DD
 
 ## [[2022.04.21] Notes on GraphMat and Graphicionado](http://blog.jpramos.me/2022.04.21)
