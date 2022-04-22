@@ -1,20 +1,2 @@
-title: jpramos' blog
-email: jvr34@cornell.edu
-description: > # this means to ignore newlines until "baseurl:"
-  my blog
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://jpramos.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:   jp_vinnie
-github_username:    jpVinnie
-linkedin_username:  jpv-ramos
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-sass:
-    sass_dir: ./_scss
+name: jpramos' blog
+title: null
