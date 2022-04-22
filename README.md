@@ -1,4 +1,4 @@
-# interesting stuff I write about ![alt text](https://jpramos.me/Data/icosi.png)
+# anything I'm interesting in writing ![alt text](https://jpramos.me/Data/icosi.png)
 #### standard date format YYYY.MM.DD
 
 <br>
