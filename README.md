@@ -18,4 +18,4 @@
 
 <br>
 
-【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">Go back</a>】
+【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】
