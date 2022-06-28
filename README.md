@@ -5,7 +5,7 @@
 
 <h2>
   <a href="http://blog.jpramos.me/2022.06.28" style="color: #364491; border-bottom:1px dotted">
-    [2022.04.21] What is Gradual Verification?
+    [2022.06.28] What is Gradual Verification?
   </a>
 </h2>
 
