@@ -10,7 +10,9 @@
 </h2>
 
 > Formal verification is a program correctness and soundness verification method that is near and dear to my heart. However, recently I've been working on a research project involving Gradual Verification! Introduced by <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf" style="color: #364491; border-bottom:1px dotted">Bader et al. [2018]</a>, GV seeks to use both static and dynamic program verification and make use of their isolated advantages, inspired by gradual typing. I explain at a somewhat high level what GV is technically, why we should care about it, and current systems tools for GV.
----
+
+<br>
+
 <h2>
   <a href="http://blog.jpramos.me/2022.04.21" style="color: #364491; border-bottom:1px dotted">
     [2022.04.21] A brief explanation of GraphMat and Graphicionado
