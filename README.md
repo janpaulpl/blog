@@ -4,6 +4,16 @@
 <br>
 
 <h2>
+  <a href="http://blog.jpramos.me/2022.07.12" style="color: #364491; border-bottom:1px dotted">
+    [2022.06.28] I love Lightweight Formal Methods
+  </a>
+</h2>
+
+> In <a href="https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf" style="color: #364491; border-bottom:1px dotted">Bornholt et al. [2021]</a>, Amazon describes the use of *lightweight formal methods* as a pragmatic approach to verify the correctness of a given production system. I'm interested in this *lightweight* property they present, in which a formal specification doesn't have to be fully achieved, but an emphasizing automation and sustainability through property based testing. Also inspired by the classic Quickcheck (<a href="https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf" style="color: #364491; border-bottom:1px dotted">Claessen and Hughes [2000]</a>) paper.
+
+<br>
+
+<h2>
   <a href="http://blog.jpramos.me/2022.06.28" style="color: #364491; border-bottom:1px dotted">
     [2022.06.28] What is Gradual Verification?
   </a>
