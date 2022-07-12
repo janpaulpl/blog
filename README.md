@@ -5,7 +5,7 @@
 
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #364491; border-bottom:1px dotted">
-    [2022.06.28] I ♥ Lightweight Formal Methods
+    [2022.07.12] I ♥ Lightweight Formal Methods
   </a>
 </h2>
 
