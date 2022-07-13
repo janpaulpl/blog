@@ -3,6 +3,10 @@
 
 <br>
 
+##  Listen to <a href="https://github.com/Camto/Subjective-Facts" style="color: #364491; border-bottom:1px dotted"> my esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #364491; border-bottom:1px dotted">Benjamin Philippe</a>!
+
+<br>
+
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #364491; border-bottom:1px dotted">
     [2022.07.12] I ♥ Lightweight Formal Methods
