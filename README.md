@@ -17,8 +17,6 @@
 
 > In <a href="https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf" style="color: #364491; border-bottom:1px dotted">Bornholt et al. [2021]</a>, Amazon describes the use of *lightweight formal methods* as a pragmatic approach to verify the correctness of a given production system. I'm interested in this *lightweight* property they present, in which a formal specification doesn't have to be fully achieved, but an emphasizing automation and sustainability through property based testing. Also inspired by the classic Quickcheck (<a href="https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf" style="color: #364491; border-bottom:1px dotted">Claessen and Hughes [2000]</a>) paper.
 
-<br>
-
 <h2>
   <a href="http://blog.jpramos.me/2022.06.28" style="color: #364491; border-bottom:1px dotted">
     [2022.06.28] What is Gradual Verification?
@@ -26,8 +24,6 @@
 </h2>
 
 > Formal verification is a program correctness and soundness verification method that is near and dear to my heart. However, recently I've been working on a research project involving Gradual Verification! Introduced by <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf" style="color: #364491; border-bottom:1px dotted">Bader et al. [2018]</a>, GV seeks to use both static and dynamic program verification and make use of their isolated advantages, inspired by gradual typing. I explain at a somewhat high level what GV is technically, why we should care about it, and current systems tools for GV.
-
-<br>
 
 <h2>
   <a href="http://blog.jpramos.me/2022.04.21" style="color: #364491; border-bottom:1px dotted">
@@ -77,11 +73,11 @@
 <br>
 
 ## news about me
-| When            | What                          |
-| :----:          | :---                          | 
-| July 2022       | I created this section!       |
-
-<br>
+| <h3> When </h3>            | <h3> What </h3>                          |
+| :---                       | :---                                     | 
+| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #364491; border-bottom:1px dotted">REUSE</a> at CMU |
+| <h4> November 2021 </h4>   | Joined <a href="capra.cs.cornell.edu/" style="color: #364491; border-bottom:1px dotted">CAPRA research group</a>       |
+| <h4> August 2021 </h4>     | Entered my first year at Cornell University! |
 
 <br>
 
