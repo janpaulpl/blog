@@ -1,6 +1,6 @@
 # <p align="center"> thoughts and empty ideas ![alt text](https://jpramos.me/Data/icosi.png) </p>
 ### <p align="center"> standard date format YYYY.MM.DD </p>
-<p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】【<a href="http://blog.jpramos.me/#serious-thinking" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#vague-ideas" style="color: #8B0000;">vague</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】</p>
+#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】【<a href="http://blog.jpramos.me/#serious-thinking" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#vague-ideas" style="color: #8B0000;">vague</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】</p>
 
 <br>
 
