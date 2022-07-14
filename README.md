@@ -1,14 +1,15 @@
-# <p align="center"> thoughts and empty ideas ![alt text](https://jpramos.me/Data/icosi.png) </p>
+# <p align="center"> serious thoughts and empty ideas ![alt text](https://jpramos.me/Data/icosi.png) </p>
 ### <p align="center"> standard date format YYYY.MM.DD </p>
-#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】【<a href="http://blog.jpramos.me/#serious-thinking" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#vague-ideas" style="color: #8B0000;">vague</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】</p>
+#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】</p>
 
 <br>
 
 ##  Listen to <a href="https://github.com/Camto/Subjective-Facts" style="color: #364491; border-bottom:1px dotted"> my esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #364491; border-bottom:1px dotted">Benjamin Philippe</a>!
+> Welcome to my blog, I hope you *STEI* around and have a pleasant time!
 
 <br>
 
-## serious thinking
+## serious thoughts
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #364491; border-bottom:1px dotted">
     [2022.07.12] I ♥ Lightweight Formal Methods
@@ -35,7 +36,7 @@
 
 <br>
 
-## vague ideas
+## empty ideas
 <h2>
   <a href="http://blog.jpramos.me/2022.08.06" style="color: #364491; border-bottom:1px dotted">
     [2022.08.06] The Art of Papers (particularly those on walls)
