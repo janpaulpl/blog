@@ -4,7 +4,7 @@
 
 <br>
 
-##  Listen to <a href="https://github.com/Camto/Subjective-Facts" style="color: #364491; border-bottom:1px dotted"> my esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #364491; border-bottom:1px dotted">Benjamin Philippe</a>!
+##  Listen to my <a href="https://github.com/Camto/Subjective-Facts" style="color: #364491; border-bottom:1px dotted"> esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #364491; border-bottom:1px dotted">Benjamin Philippe</a>!
 > Welcome to my blog, I hope you *STEI* around and have a pleasant time!
 
 <br>
