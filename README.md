@@ -1,5 +1,5 @@
 # thoughts and empty ideas ![alt text](https://jpramos.me/Data/icosi.png)
-#### standard date format YYYY.MM.DD
+#### standard date format YYYY.MM.DD —【<a href="http://blog.jpramos.me/#serious-thinking" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#vague-ideas" style="color: #8B0000;">vague</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】
 
 <br>
 
