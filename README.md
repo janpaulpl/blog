@@ -49,6 +49,7 @@
 
 ## news about me
 | When            | What                          |
+
 | :----:          | :---                          | 
 | July 2022       | I created this section!       |
 
