@@ -84,4 +84,4 @@
 
 <br>
 
-【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">main site</a>】
+【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】
