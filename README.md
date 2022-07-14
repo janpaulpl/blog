@@ -47,6 +47,34 @@
 
 <br>
 
+## recently read on wikipedia
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: #364491; border-bottom:1px dotted">
+    Formal verification
+  </a>
+</h4>
+
+> The act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/F-coalgebra" style="color: #364491; border-bottom:1px dotted">
+    F-coalgebra
+  </a>
+</h4>
+
+> A structure defined according to a functor `F`, with specific properties as defined below. For both algebras and coalgebras, a functor is a convenient and general way of organizing a signature.
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" style="color: #364491; border-bottom:1px dotted">
+    Thinking, Fast and Slow
+  </a>
+</h4>
+  
+> The book's main thesis is that of a dichotomy between two modes of thought: "System 1" is fast, instinctive and emotional; "System 2" is slower, more deliberative, and more logical.
+
+<br>
+
 ## news about me
 | When            | What                          |
 | :----:          | :---                          | 
