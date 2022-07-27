@@ -76,8 +76,8 @@
 ## news about me
 | <h3> When </h3>            | <h3> What </h3>                          |
 | :---                       | :---                                     | 
-| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #8B0000; border-bottom:1px dotted">REUSE</a> at CMU |
-| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: #8B0000; border-bottom:1px dotted">CAPRA research group</a>       |
+| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #443837; border-bottom:1px dotted">REUSE</a> at CMU |
+| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: #443837; border-bottom:1px dotted">CAPRA research group</a>       |
 | <h4> August 2021 </h4>     | Entered my first year at Cornell University! |
 
 <br>
