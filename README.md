@@ -4,22 +4,22 @@
 
 <br>
 
-##  Listen to my <a href="https://github.com/Camto/Subjective-Facts" style="color: #443837; border-bottom:1px dotted"> esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #443837; border-bottom:1px dotted">Benjamin Philippe</a>!
+##  Listen to my <a href="https://github.com/Camto/Subjective-Facts" style="color: ##8B0000; border-bottom:1px dotted"> esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: ##8B0000; border-bottom:1px dotted">Benjamin Philippe</a>!
 > Welcome to my blog, I hope you *STEI* around and have a pleasant time!
 
 <br>
 
 ## serious thoughts
 <h2>
-  <a href="http://blog.jpramos.me/2022.07.12" style="color: #443837; border-bottom:1px dotted">
-    [2022.07.12] I <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">♥</a><a href="http://blog.jpramos.me/2022.07.12" style="color: #443837; border-bottom:1px dotted"> Lightweight Formal Methods</a>
+  <a href="http://blog.jpramos.me/2022.07.12" style="color: ##8B0000; border-bottom:1px dotted">
+    [2022.07.12] I <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">♥</a><a href="http://blog.jpramos.me/2022.07.12" style="color: ##8B0000; border-bottom:1px dotted"> Lightweight Formal Methods</a>
   </a>
 </h2>
 
 > In <a href="https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf" style="color: #8B0000; border-bottom:1px dotted">Bornholt et al. [2021]</a>, Amazon describes the use of *lightweight formal methods* as a pragmatic approach to verify the correctness of a given production system. I'm interested in this *lightweight* property they present, in which a formal specification doesn't have to be fully achieved, but an emphasizing automation and sustainability through property based testing. Also inspired by the classic Quickcheck (<a href="https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf" style="color: #8B0000; border-bottom:1px dotted">Claessen and Hughes [2000]</a>) paper.
 
 <h2>
-  <a href="http://blog.jpramos.me/2022.06.28" style="color: #443837; border-bottom:1px dotted">
+  <a href="http://blog.jpramos.me/2022.06.28" style="color: ##8B0000; border-bottom:1px dotted">
     [2022.06.28] What is Gradual Verification?
   </a>
 </h2>
@@ -27,7 +27,7 @@
 > Formal verification is a program correctness and soundness verification method that is near and dear to my heart. However, recently I've been working on a research project involving Gradual Verification! Introduced by <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf" style="color: #8B0000; border-bottom:1px dotted">Bader et al. [2018]</a>, GV seeks to use both static and dynamic program verification and make use of their isolated advantages, inspired by gradual typing. I explain at a somewhat high level what GV is technically, why we should care about it, and current systems tools for GV.
 
 <h2>
-  <a href="http://blog.jpramos.me/2022.04.21" style="color: #443837; border-bottom:1px dotted">
+  <a href="http://blog.jpramos.me/2022.04.21" style="color: ##8B0000; border-bottom:1px dotted">
     [2022.04.21] A brief explanation of GraphMat and Graphicionado
   </a>
 </h2>
@@ -38,7 +38,7 @@
 
 ## empty ideas
 <h2>
-  <a href="http://blog.jpramos.me/2022.08.06" style="color: #443837; border-bottom:1px dotted">
+  <a href="http://blog.jpramos.me/2022.08.06" style="color: ##8B0000; border-bottom:1px dotted">
     [2022.08.06] The Art of Papers (particularly those on walls)
   </a>
 </h2>
@@ -48,7 +48,7 @@
 ## recently read on wikipedia
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: #443837; border-bottom:1px dotted">
+  <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: ##8B0000; border-bottom:1px dotted">
     Formal verification
   </a>
 </h4>
@@ -56,7 +56,7 @@
 > The act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/F-coalgebra" style="color: #443837; border-bottom:1px dotted">
+  <a href="https://en.wikipedia.org/wiki/F-coalgebra" style="color: ##8B0000; border-bottom:1px dotted">
     F-coalgebra
   </a>
 </h4>
@@ -64,7 +64,7 @@
 > A structure defined according to a functor `F`, with specific properties as defined below. For both algebras and coalgebras, a functor is a convenient and general way of organizing a signature.
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" style="color: #443837; border-bottom:1px dotted">
+  <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" style="color: ##8B0000; border-bottom:1px dotted">
     Thinking, Fast and Slow
   </a>
 </h4>
@@ -76,8 +76,8 @@
 ## news about me
 | <h3> When </h3>            | <h3> What </h3>                          |
 | :---                       | :---                                     | 
-| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #443837; border-bottom:1px dotted">REUSE</a> at CMU |
-| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: #443837; border-bottom:1px dotted">CAPRA research group</a>       |
+| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: ##8B0000; border-bottom:1px dotted">REUSE</a> at CMU |
+| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: ##8B0000; border-bottom:1px dotted">CAPRA research group</a>       |
 | <h4> August 2021 </h4>     | Entered my first year at Cornell University! |
 
 <br>
