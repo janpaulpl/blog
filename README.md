@@ -12,7 +12,7 @@
 ## serious thoughts
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: ##8B0000; border-bottom:1px dotted">
-    [2022.07.12] I <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">♥</a><a href="http://blog.jpramos.me/2022.07.12" style="color: ##8B0000; border-bottom:1px dotted"> Lightweight Formal Methods</a>
+    [2022.07.12] I ♥ Lightweight Formal Methods
   </a>
 </h2>
 
