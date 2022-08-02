@@ -38,10 +38,13 @@
 
 ## empty ideas
 <h2>
-  <a href="http://blog.jpramos.me/2022.08.06" style="color: #8B0000; border-bottom:1px dotted">
-    [2022.08.06] The Art of Papers (particularly those on walls)
+  <a href="http://blog.jpramos.me/2022.08.10" style="color: #8B0000; border-bottom:1px dotted">
+    [2022.08.10] Complete beginner tries some music theory [1/35]
   </a>
 </h2>
+
+> This is my first attempt at trying to learn some music theory (as a complete beginner)! I recently got the <a href="https://piano-keyboard-reviews.com/brands/yamaha-keyboards/p71-review/" style="color: #8B0000; border-bottom:1px dotted">YAMAHA P71 88-key keyboard</a> because I got tired of playing around with <a href="https://virtualpiano.net/" style="color: #8B0000; border-bottom:1px dotted">virtual piano</a>. I'll be following <a href="https://musictheory.pugetsound.edu/mt21c/acknowledgement-1.html" style="color: #8B0000; border-bottom:1px dotted">Music Theory for the 21st-Century Classroom by Robert Hutchinson</a>, and writing notes on each *lecture*. Who knows, I might even embed a video or two of my playing.
+
 
 <br>
 
