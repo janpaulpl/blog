@@ -51,28 +51,28 @@
 ## recently read on wikipedia
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: #8B0000; border-bottom:1px dotted">
-    Formal verification
+  <a href="https://en.wikipedia.org/wiki/Pinhole_camera" style="color: #8B0000; border-bottom:1px dotted">
+    Pinhole camera
   </a>
 </h4>
 
-> The act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
+> A simple camera without a lens but with a tiny aperture (the so-called pinhole)—effectively a light-proof box with a small hole in one side. Light from a scene passes through the aperture and projects an inverted image on the opposite side of the box, which is known as the camera obscura effect. 
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/F-coalgebra" style="color: #8B0000; border-bottom:1px dotted">
-    F-coalgebra
+  <a href="https://en.wikipedia.org/wiki/Svalbard" style="color: #8B0000; border-bottom:1px dotted">
+    Svalbard
   </a>
 </h4>
 
-> A structure defined according to a functor `F`, with specific properties as defined below. For both algebras and coalgebras, a functor is a convenient and general way of organizing a signature.
+> A Norwegian archipelago in the Arctic Ocean. North of mainland Europe, it is about midway between the northern coast of Norway and the North Pole.
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" style="color: #8B0000; border-bottom:1px dotted">
-    Thinking, Fast and Slow
+  <a href="https://en.wikipedia.org/wiki/Epistemological_Letters" style="color: #8B0000; border-bottom:1px dotted">
+    Epistemological Letters
   </a>
 </h4>
   
-> The book's main thesis is that of a dichotomy between two modes of thought: "System 1" is fast, instinctive and emotional; "System 2" is slower, more deliberative, and more logical.
+> A hand-typed, mimeographed "underground" newsletter about quantum physics that was distributed to a private mailing list, described by the physicist and Nobel laureate John Clauser as a "quantum subculture", between 1973 and 1984.
 
 <br>
 
