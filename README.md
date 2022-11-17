@@ -48,7 +48,7 @@
 
 <br>
 
-## recently read on wikipedia
+## recently read on <a href="https://en.wikipedia.org/wiki/User:Jpvinnie" style="color: #8B0000; border-bottom:1px dotted"> wikipedia</a>
 
 <h4>
   <a href="https://en.wikipedia.org/wiki/Pinhole_camera" style="color: #8B0000; border-bottom:1px dotted">
