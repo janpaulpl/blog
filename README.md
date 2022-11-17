@@ -36,7 +36,7 @@
 
 <br>
 
-## empty ideas
+## empty ideas <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
 <h2>
   <a href="http://blog.jpramos.me/2022.08.10" style="color: #8B0000; border-bottom:1px dotted">
     [2022.08.10] Complete beginner tries some music theory [1/35]
@@ -48,7 +48,7 @@
 
 <br>
 
-## recently read on <a href="https://en.wikipedia.org/wiki/User:Jpvinnie" style="color: #8B0000; border-bottom:1px dotted"> wikipedia</a>
+## recently read on <a href="https://en.wikipedia.org/wiki/User:Jpvinnie" style="color: #8B0000; border-bottom:1px dotted"> wikipedia</a> <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
 
 <h4>
   <a href="https://en.wikipedia.org/wiki/Pinhole_camera" style="color: #8B0000; border-bottom:1px dotted">
@@ -76,7 +76,7 @@
 
 <br>
 
-## news about me
+## news about me <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
 | <h3> When </h3>            | <h3> What </h3>                          |
 | :---                       | :---                                     | 
 | <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #8B0000; border-bottom:1px dotted">REUSE</a> at CMU |
