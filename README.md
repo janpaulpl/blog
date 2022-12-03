@@ -1,15 +1,21 @@
 # <p align="center"> serious thoughts and empty ideas [![alt text](https://jpramos.me/Data/icosi.png)](https://dogfeathers.com/icosidodec/topo.html) </p>
 ### <p align="center"> standard date format YYYY.MM.DD </p>
-#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】</p>
+#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】</p>
 
 <br>
 
-##  Listen to my <a href="https://github.com/Camto/Subjective-Facts" style="color: #8B0000; border-bottom:1px dotted"> esoteric alternative universe podcast </a> co-hosted by <a href="https://github.com/Camto" style="color: #8B0000; border-bottom:1px dotted">Benjamin Philippe</a>!
+## news about me
+| <h3> When </h3>            | <h3> What </h3>                          |
+| :---                       | :---                                     |
+| <h4> December 2022         | Got my first academic <a href="https://jpramos.me/Data/popl23src-paper20.pdf" style="color: #8B0000; border-bottom:1px dotted">paper</a> accepted to a conference (POPL '23)! |
+| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #8B0000; border-bottom:1px dotted">REUSE</a> at CMU, gradual verification is wild. |
+| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: #8B0000; border-bottom:1px dotted">CAPRA research group</a>, hardware accelerators wowzers.      |
+| <h4> August 2021 </h4>     | Started my first year at Cornell University! |
 > Welcome to my blog, I hope you *STEI* around and have a pleasant time!
 
 <br>
 
-## serious thoughts
+## serious thoughts <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">
     [2022.07.12] I ♥ Lightweight Formal Methods
@@ -73,15 +79,6 @@
 </h4>
   
 > A hand-typed, mimeographed "underground" newsletter about quantum physics that was distributed to a private mailing list, described by the physicist and Nobel laureate John Clauser as a "quantum subculture", between 1973 and 1984.
-
-<br>
-
-## news about me <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
-| <h3> When </h3>            | <h3> What </h3>                          |
-| :---                       | :---                                     | 
-| <h4> June 2022 </h4>       | Started  <a href="https://www.cmu.edu/scs/isr/reuse" style="color: #8B0000; border-bottom:1px dotted">REUSE</a> at CMU |
-| <h4> November 2021 </h4>   | Joined <a href="https://capra.cs.cornell.edu/" style="color: #8B0000; border-bottom:1px dotted">CAPRA research group</a>       |
-| <h4> August 2021 </h4>     | Entered my first year at Cornell University! |
 
 <br>
 
