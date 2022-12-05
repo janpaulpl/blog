@@ -1,6 +1,6 @@
 # <p align="center"> serious thoughts and empty ideas [![alt text](https://jpramos.me/Data/icosi.png)](https://dogfeathers.com/icosidodec/topo.html) </p>
 ### <p align="center"> standard date format YYYY.MM.DD </p>
-#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-wikipedia" style="color: #8B0000;">wiki</a>】
+#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on--wikipedia" style="color: #8B0000;">wiki</a>】
 
 ## news about me
 | <h3> When </h3>            | <h3> What </h3>                          |
@@ -13,7 +13,8 @@
 
 <br>
 
-## serious thoughts <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
+## serious thoughts
+<h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right"> <i>top</i> </a>】</h5>
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">
     [2022.07.12] I ♥ Lightweight Formal Methods
@@ -40,7 +41,8 @@
 
 <br>
 
-## empty ideas <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
+## empty ideas
+<h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right"><i>top</i></a>】</h5>
 <h2>
   <a href="http://blog.jpramos.me/2022.08.10" style="color: #8B0000; border-bottom:1px dotted">
     [2022.08.10] Complete beginner tries some music theory [1/35]
@@ -52,7 +54,8 @@
 
 <br>
 
-## recently read on <a href="https://en.wikipedia.org/wiki/User:Jpvinnie" style="color: #8B0000; border-bottom:1px dotted"> wikipedia</a> <h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right">*top*</a>】</h5>
+## recently read on <a href="https://en.wikipedia.org/wiki/User:Jpvinnie" style="color: #8B0000; border-bottom:1px dotted"> wikipedia</a> 
+<h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right"><i>top</i></a>】</h5>
 
 <h4>
   <a href="https://en.wikipedia.org/wiki/Pinhole_camera" style="color: #8B0000; border-bottom:1px dotted">
