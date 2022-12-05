@@ -1,6 +1,6 @@
 # <p align="center"> serious thoughts and empty ideas [![alt text](https://jpramos.me/Data/icosi.png)](https://dogfeathers.com/icosidodec/topo.html) </p>
 ### <p align="center"> standard date format YYYY.MM.DD </p>
-#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on--wikipedia" style="color: #8B0000;">wiki</a>】
+#### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-a-hrefhttpsenwikipediaorgwikiuserjpvinnie-stylecolor-8b0000-border-bottom1px-dotted-wikipediaa" style="color: #8B0000;">wiki</a>】
 
 ## news about me
 | <h3> When </h3>            | <h3> What </h3>                          |
