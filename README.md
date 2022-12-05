@@ -14,7 +14,7 @@
 <br>
 
 ## serious thoughts
-<h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right"> <i>top</i> </a>】</h5>
+<h5>【<a href="https://blog.jpramos.me/#p-aligncenter-standard-date-format-yyyymmdd-p" style="color: #8B0000; text-align: right"><i>top</i></a>】</h5>
 <h2>
   <a href="http://blog.jpramos.me/2022.07.12" style="color: #8B0000; border-bottom:1px dotted">
     [2022.07.12] I ♥ Lightweight Formal Methods
