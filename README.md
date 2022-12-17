@@ -3,6 +3,9 @@
 #### <p align="center">【<a href="https://jpramos.me" style="color: #8B0000; text-align: right">home</a>】【<a href="http://blog.jpramos.me/#news-about-me" style="color: #8B0000;">news</a>】【<a href="http://blog.jpramos.me/#serious-thoughts" style="color: #8B0000;">serious</a>】【<a href="http://blog.jpramos.me/#empty-ideas" style="color: #8B0000;">empty</a>】【<a href="http://blog.jpramos.me/#recently-read-on-a-hrefhttpsenwikipediaorgwikiuserjpvinnie-stylecolor-8b0000-border-bottom1px-dotted-wikipediaa" style="color: #8B0000;">wiki</a>】
 
 ## news about me
+
+My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #8B0000; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #8B0000; border-bottom:1px dotted">here</a>.
+
 | <h3> When </h3>            | <h3> What </h3>                          |
 | :---                       | :---                                     |
 | <h4> December 2022         | Got my first academic <a href="https://jpramos.me/Data/popl23src-paper20.pdf" style="color: #8B0000; border-bottom:1px dotted">paper</a> accepted to a conference (POPL '23)! |
