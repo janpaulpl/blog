@@ -4,7 +4,7 @@
 
 ## news about me
 
-My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #8B0000; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #8B0000; border-bottom:1px dotted">here</a>.
+My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #8B0000; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #8B0000; border-bottom:1px dotted">here</a>. Born @ 375 ppm.
 
 | <h3> When </h3>            | <h3> What </h3>                          |
 | :---                       | :---                                     |
